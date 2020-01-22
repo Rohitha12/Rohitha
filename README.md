@@ -18,7 +18,7 @@ bhsij;
 
 ## image
 
-![NW](https://en.wikipedia.org/wiki/File:NW_Missouri_State_seal.png)
+![NW](https://upload.wikimedia.org/wikipedia/en/thumb/3/32/NW_Missouri_State_seal.png/180px-NW_Missouri_State_seal.png)
 
 ## lists
 
